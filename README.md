@@ -71,7 +71,7 @@
 
 ## ⚖️ ライセンス (License)
 
-Copyright (c) 2026 akabanestation1007
+Copyright (c) 2026 akabanestation1007(githubでは、Akihabara-JB03)
 Licensed under the MIT License.
 
 ---
